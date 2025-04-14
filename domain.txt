@@ -1,1 +1,2 @@
 security-confirmation.help
+lipin.ctrip.com.tulingcdn.com
